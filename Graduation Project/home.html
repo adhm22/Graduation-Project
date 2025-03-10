@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to makani</title>
+    <link rel="stylesheet" href="home.css">
+    <style>
+        .search-container {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            width: 90%;
+            max-width: 100%;
+        }
+
+        .search-title {
+            margin-bottom: 1.5rem;
+            color: #333;
+            font-size: 1.8rem;
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        input, select {
+            width: 20%;
+            padding: 0.8rem;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+
+        input:focus, select:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 0 2px rgba(0,123,255,0.25);
+        }
+
+        .search-button {
+            background-color: #007bff;
+            color: white;
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .search-button:hover {
+            background-color: #0056b3;
+        }
+        h1 {text-align: center;}
+    </style>
+</head>
+<body>
+
+<header>
+    <a href="home.html"><h1>Welcome to makani</h1></a>
+<nav>
+    <a href="home.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="property.html">property</a>
+    <a href="contact.html">Contact</a>
+</nav>
+</header>
+
+
+<div class="search-container">
+    <h1 class="search-title">Find Your Dream Property</h1>
+    <form>
+        <span class="form-group">
+            <label >Search Keyword</label>
+            <input 
+                type="text" 
+                id="search-keyword" 
+                placeholder="Enter keywords (e.g., pool, garage)">
+        </span>
+
+        <span class="form-group">
+            <label >Property Type</label>
+            <select id="property-type">
+                <option value="">Select Property Type</option>
+                <option value="house">House</option>
+                <option value="apartment">Apartment</option>
+                <option value="villa">Villa</option>
+                <option value="commercial">Commercial</option>
+            </select>
+        </span>
+
+        <span class="form-group">
+            <label >Location</label>
+            <input 
+                type="text" 
+                id="location" 
+                placeholder="Enter location or neighborhood">
+        </span>
+
+        <button type="submit" class="search-button">Search Properties</button>
+    </form>
+</div>
+<div class="container">
+    <section id="about">
+        <h2>About</h2>
+        <p>Tell us a little bit about yourself or your business here.</p>
+    </section>
+
+    <section id="property-Listing">
+        <h2>property Listing</h2>
+        <p>Describe the property-Listing you offer in this section.</p>
+    </section>
+
+    <section id="Our-Clients-Say">
+        <h2>Our Clients Say!</h2>
+        <p>Provide your contact information so visitors can get in touch with you.</p>
+    </section>
+</div>
+
+<footer>
+    <div class="footer-container">
+        <div class="span-group">
+            <span class="span">
+                <h3>Get In Touch</h3>
+                <address>
+                    123 Braves, New York, USA<br>
+                    01234567890<br>
+                    info@example.com
+                </address>
+            </span>
+
+            <span class="span">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="About.html">About Us</a></li>
+                    <li><a href="Contact">Contact Us</a></li>
+                    <li><a href="Team.html">Terms & Conditions</a></li>
+                </ul>
+            </span>
+
+            <span class="span">
+                <h3>Photo Gallery</h3>
+                <ul>
+                    <li><a href="#">Photo</a></li>
+                    <li><a href="#">Photo</a></li>
+                    <li><a href="#">Photo</a></li>
+                    <li><a href="#">Photo</a></li>
+                </ul>
+            </span>
+
+            <span class="span newsletter">
+                <h3>Newsletter</h3>
+                <p>Order menu at a java menu edit class option edit out.</p>
+                <div class="newsletter-input">
+                    <input type="email" placeholder="Enter your email">
+                    <button>Subscribe</button>
+                </div>
+            </span>
+        </div>
+
+        <div class="brand">
+            <p>You email <strong>BuyUp</strong></p>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
