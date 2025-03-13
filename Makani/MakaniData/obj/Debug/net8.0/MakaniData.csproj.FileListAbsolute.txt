@@ -1,0 +1,11 @@
+C:\Users\esmai\source\repos\Makani\MakaniData\bin\Debug\net8.0\MakaniData.deps.json
+C:\Users\esmai\source\repos\Makani\MakaniData\bin\Debug\net8.0\MakaniData.dll
+C:\Users\esmai\source\repos\Makani\MakaniData\bin\Debug\net8.0\MakaniData.pdb
+C:\Users\esmai\source\repos\Makani\MakaniData\obj\Debug\net8.0\MakaniData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esmai\source\repos\Makani\MakaniData\obj\Debug\net8.0\MakaniData.AssemblyInfoInputs.cache
+C:\Users\esmai\source\repos\Makani\MakaniData\obj\Debug\net8.0\MakaniData.AssemblyInfo.cs
+C:\Users\esmai\source\repos\Makani\MakaniData\obj\Debug\net8.0\MakaniData.csproj.CoreCompileInputs.cache
+C:\Users\esmai\source\repos\Makani\MakaniData\obj\Debug\net8.0\MakaniData.dll
+C:\Users\esmai\source\repos\Makani\MakaniData\obj\Debug\net8.0\refint\MakaniData.dll
+C:\Users\esmai\source\repos\Makani\MakaniData\obj\Debug\net8.0\MakaniData.pdb
+C:\Users\esmai\source\repos\Makani\MakaniData\obj\Debug\net8.0\ref\MakaniData.dll

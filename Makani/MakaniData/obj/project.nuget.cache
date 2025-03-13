@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3MXRTVAPDwo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esmai\\source\\repos\\Makani\\MakaniData\\MakaniData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esmai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\esmai\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\esmai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

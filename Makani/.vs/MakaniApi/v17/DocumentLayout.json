@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esmai\\source\\repos\\Makani\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|c:\\users\\esmai\\source\\repos\\makani\\makani\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|solutionrelative:makani\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|c:\\users\\esmai\\source\\repos\\makani\\makani\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|solutionrelative:makani\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|c:\\users\\esmai\\source\\repos\\makani\\makani\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|solutionrelative:makani\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|c:\\users\\esmai\\source\\repos\\makani\\makani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|solutionrelative:makani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|c:\\users\\esmai\\source\\repos\\makani\\makani\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|solutionrelative:makani\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|c:\\users\\esmai\\source\\repos\\makani\\makani\\makani.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|solutionrelative:makani\\makani.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|c:\\users\\esmai\\source\\repos\\makani\\makani\\repositories\\implements\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|solutionrelative:makani\\repositories\\implements\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|c:\\users\\esmai\\source\\repos\\makani\\makani\\repositories\\implements\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32A0083-CF63-44C8-91C7-9417F9A71553}|Makani\\Makani.csproj|solutionrelative:makani\\repositories\\implements\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Makani\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Makani\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:02:02.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Makani",
+              "DocumentMoniker": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Makani.csproj",
+              "RelativeDocumentMoniker": "Makani\\Makani.csproj",
+              "ToolTip": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Makani.csproj",
+              "RelativeToolTip": "Makani\\Makani.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T13:01:19.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Makani\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Models\\Customer.cs",
+              "RelativeToolTip": "Makani\\Models\\Customer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:06:04.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Repositories\\Implements\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Makani\\Repositories\\Implements\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Repositories\\Implements\\CustomerRepository.cs",
+              "RelativeToolTip": "Makani\\Repositories\\Implements\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:03:18.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Makani\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Models\\User.cs",
+              "RelativeToolTip": "Makani\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:38:05.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Repositories\\Implements\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Makani\\Repositories\\Implements\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Repositories\\Implements\\UserRepository.cs",
+              "RelativeToolTip": "Makani\\Repositories\\Implements\\UserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:26:17.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Makani\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Makani\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:15:07.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Program.cs",
+              "RelativeDocumentMoniker": "Makani\\Program.cs",
+              "ToolTip": "C:\\Users\\esmai\\source\\repos\\Makani\\Makani\\Program.cs",
+              "RelativeToolTip": "Makani\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA4wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:49:08.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
